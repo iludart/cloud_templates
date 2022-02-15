@@ -1,6 +1,9 @@
 name: test
 version: 1
 formatVersion: 1
+options:
+  gitlabSyncEnable: true
+  gitlabSyncDelete: false
 inputs: {}
 resources:
   Cloud_vSphere_Machine_1:
